@@ -1,0 +1,117 @@
+body {
+    font-family: "Heebo";
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0;
+  
+}
+h1 {
+    color: #F6F692;
+    font-size: 36px;
+    margin: 0;
+}
+
+h2 {
+    color: #F6F692;
+    font-size: 24px;
+}
+
+p {
+    color: black;
+}
+
+strong {
+    font-weight: 900;
+}
+
+a {
+    color: #EF5839;
+}
+
+header {
+    padding: 45px;
+}
+
+.section-one h2 {
+    color: #F7665E;
+}
+
+.link {
+    color: #F6F692;
+}
+
+header, .section-two {
+    background-color: #F7665E;
+}
+
+img {
+    width: 100%;
+}
+
+/* Layout */
+
+
+
+section {
+    padding: 45px 0;
+}
+
+.section-two {
+    padding-top: 25px;
+}
+
+header .section-two, .container {
+    width: 90%;
+    max-width: 620px;
+    
+    margin: 0 auto;
+
+}
+
+.p-2 {
+    color: #FFF;
+}
+
+
+
+
+
+/* Button */
+
+
+.button {
+    padding: 10px 20px;
+    color: #FFF;
+    margin-right: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.btn-facebook {
+    background-color: #5f6ef4; 
+}
+
+.btn-instagram {  
+    background-color: #f45f82;
+}
+
+.btn-twitter {
+    background-color: #5fbbf4;   
+}
+
+.button:hover {
+    background-color:#FFF;
+}
+
+.btn-facebook:hover {
+    color: #3A5999; 
+}
+
+.btn-instagram:hover {
+    color: #E9365E;
+}
+
+.btn-twitter:hover {
+    color: #1ea1f2;
+}
